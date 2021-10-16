@@ -1,0 +1,12 @@
+/snap/clion/164/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/jobslinux/CLionProjects/H5
+    -- src/AA.cpp will be compiled to bin/AA
+    -- src/BB.cpp will be compiled to bin/BB
+    -- src/CC.cpp will be compiled to bin/CC
+    -- src/DD.cpp will be compiled to bin/DD
+    -- src/EE.cpp will be compiled to bin/EE
+    -- src/XX.cpp will be compiled to bin/XX
+    -- src/CMakeCXXCompilerId.cpp will be compiled to bin/CMakeCXXCompilerId
+    -- src/main.cpp will be compiled to bin/main
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jobslinux/CLionProjects/H5/cmake-build-debug
