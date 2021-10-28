@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jobs/Documents/CLionProjects/Advanced-algorithm/E7/AA.cpp
+iostream
+-
+map
+-
+vector
+-
+algorithm
+-
+

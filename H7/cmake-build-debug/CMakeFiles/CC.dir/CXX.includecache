@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jobs/Documents/CLionProjects/Advanced-algorithm/H7/CC.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+iomanip
+-
+
