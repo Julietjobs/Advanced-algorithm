@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\GGGG.dir/objects.a
+D:\mingw\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\GGGG.dir/objects.a @CMakeFiles\GGGG.dir\objects1.rsp
+D:\mingw\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GGGG.dir/objects.a -Wl,--no-whole-archive -o GGGG.exe -Wl,--out-implib,libGGGG.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GGGG.dir\linklibs.rsp

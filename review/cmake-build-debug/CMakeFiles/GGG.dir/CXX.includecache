@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jobs/Documents/CLionProjects/Advanced-algorithm/review/GGG.cpp
+map
+-
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+
